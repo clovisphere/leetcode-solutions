@@ -18,9 +18,6 @@ Design a stack that supports push, pop, top, and retrieving the minimum element 
     minStack.getMin();   --> Returns -2.
 """
 
-
-
-
 class MinStack:
 
     def __init__(self):
