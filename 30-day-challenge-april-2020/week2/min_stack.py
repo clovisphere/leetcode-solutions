@@ -26,7 +26,6 @@ class MinStack:
         """
         self.node = []
         
-
     def push(self, x: int) -> None:
         self.node.append(x)
 
